@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0FDA7AE5-64A3-4EA6-9D4E-2E7023FB505D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YFMoreCellTableViewController</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>975A7223-CE00-4CCF-BE7E-936F4768EF81</key>
+		<string>http://svnhz.alipay.net/svn/ocios/OpenSource</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YFMoreCellTableViewController/YFMoreCellTableViewController.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>975A7223-CE00-4CCF-BE7E-936F4768EF81</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>975A7223-CE00-4CCF-BE7E-936F4768EF81</key>
+		<string>http://svnhz.alipay.net/svn/ocios</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://svnhz.alipay.net/svn/ocios/OpenSource/YFMoreCellTableViewController/YFMoreCellTableViewController.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>975A7223-CE00-4CCF-BE7E-936F4768EF81</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>975A7223-CE00-4CCF-BE7E-936F4768EF81</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OpenSource</string>
+		</dict>
+	</array>
+</dict>
+</plist>
